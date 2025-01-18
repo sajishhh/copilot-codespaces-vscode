@@ -1,0 +1,7 @@
+# Requirements for the Stock Market Visualizer app
+streamlit
+yfinance
+pandas
+plotly
+openpyxl
+kaleido
