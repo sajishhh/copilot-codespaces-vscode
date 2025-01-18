@@ -1,0 +1,19 @@
+# Requirements for the Stock Market Visualizer app
+
+# Streamlit for creating the interactive web app
+streamlit
+
+# yfinance for fetching stock market data
+yfinance
+
+# pandas for data manipulation
+pandas
+
+# plotly for creating interactive charts
+plotly
+
+# openpyxl for reading Excel files (optional, for portfolio upload)
+openpyxl
+
+# kaleido for exporting Plotly charts as PNG
+kaleido
