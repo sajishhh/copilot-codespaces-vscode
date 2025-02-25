@@ -7,7 +7,7 @@ import PyPDF2
 
 # Load API key securely
 load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("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")
 
 if not GROQ_API_KEY:
     st.error("🚨 API Key is missing! Set it in Streamlit Secrets or a .env file.")
